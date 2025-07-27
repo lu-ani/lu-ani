@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lu-ani&hide=contribs,prs&theme=onedark)
 
--I am currently learning; HTML5, CSS3, Bootstrap & Tailwind.
+-I am currently learning; HTML5, CSS3, Bootstrap & Tailwind. </br>
 -I will soon begin with; Javascript, React.js, Vue.js, Alpine.js, Svelte.js & Typescript
 
