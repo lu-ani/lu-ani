@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lu-ani&theme=onedark)](https://github.com/lu-ani/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lu-ani&hide=contribs,prs&theme=onedark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lu-ani&hide=prs&theme=onedark)
 
 -I am currently learning; HTML5, CSS3, Bootstrap & Tailwind. </br>
 -I will soon begin with; Javascript, React.js, Vue.js, Alpine.js, Svelte.js & Typescript
