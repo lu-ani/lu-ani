@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lu-ani&hide=contribs,prs&theme=onedark)
+
+
