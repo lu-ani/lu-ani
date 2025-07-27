@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lu-ani)](https://github.com/lu-ani/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lu-ani&hide=stylus,blade,jupyter%20notebook,python,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lu-ani)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lu-ani&hide=contribs,prs&theme=onedark)
 
